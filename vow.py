@@ -1,0 +1,1 @@
+n=char(input())
